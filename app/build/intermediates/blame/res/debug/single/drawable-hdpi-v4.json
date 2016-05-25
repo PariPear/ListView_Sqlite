@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Git\\ListView_Sqlite1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "E:\\Git\\ListView_Sqlite1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Git\\ListView_Sqlite1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f.png",
+        "source": "E:\\Git\\ListView_Sqlite1\\app\\src\\main\\res\\drawable-hdpi\\f.png"
+    },
+    {
+        "merged": "E:\\Git\\ListView_Sqlite1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t.png",
+        "source": "E:\\Git\\ListView_Sqlite1\\app\\src\\main\\res\\drawable-hdpi\\t.png"
+    },
+    {
+        "merged": "E:\\Git\\ListView_Sqlite1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\o.png",
+        "source": "E:\\Git\\ListView_Sqlite1\\app\\src\\main\\res\\drawable-hdpi\\o.png"
+    }
+]
